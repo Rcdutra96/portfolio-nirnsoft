@@ -88,13 +88,13 @@ const Contact = () => {
             />
           </label>
           <label className="flex flex-col">
-            <span className="text-timberWolf font-medium mb-4">Seu e-mail</span>
+            <span className="text-timberWolf font-medium mb-4">Seu email</span>
             <input
               type="email"
               name="email"
               value={form.email}
               onChange={handleChange}
-              placeholder="Qual seu e-mail?"
+              placeholder="Qual seu email?"
               className="bg-eerieBlack py-4 px-6
               placeholder:text-taupe
               text-timberWolf rounded-lg outline-none
