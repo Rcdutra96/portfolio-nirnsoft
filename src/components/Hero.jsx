@@ -37,17 +37,17 @@ const Hero = () => {
           <div>
             <h1
               className={`${styles.heroHeadText} text-eerieBlack font-poppins uppercase`}>
-              Hi, I'm{' '}
+              Olá, nós somos a {' '}
               <span
                 className="sm:text-battleGray sm:text-[90px] 
                 text-eerieBlack text-[50px] font-mova
                 font-extrabold uppercase">
-                Shaquille
+                NirnSoft
               </span>
             </h1>
             <p className={`${styles.heroSubText} mt-2 text-eerieBlack`}>
-              Lorem ipsum dolor sit amet. <br className="sm:block hidden" />
-              consectetur adipisicing elit deleniti, voluptas.
+              Atuando desde 2015, a NirnSoft é uma empresa especializada no desenvolvimento de software mobile e web. <br className="sm:block hidden" />
+              Com uma equipe altamente qualificada e apaixonada por tecnologia, buscamos fornecer soluções inovadoras e personalizadas para atender às necessidades dos nossos clientes.
             </p>
           </div>
           <div
