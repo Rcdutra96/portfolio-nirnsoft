@@ -120,14 +120,6 @@ const technologies = [
     name: 'docker',
     icon: docker,
   },
-  {
-    name: 'kotlin',
-    icon: kotlin,
-  },
-  {
-    name: 'flutter',
-    icon: flutter,
-  },
 ];
 
 const experiences = [
