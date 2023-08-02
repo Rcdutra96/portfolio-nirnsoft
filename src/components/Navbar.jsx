@@ -41,7 +41,7 @@ const Navbar = () => {
                     key={nav.id}
                     className={`${active === nav.title 
                       ? 'text-french' : 'text-eerieBlack'}
-                      hover:text-taupe text-[12px] font-normal font-mova uppercase cursor-pointer nav-links right-0 text-right`}
+                      hover:text-taupe font-normal font-mova uppercase cursor-pointer nav-links right-0 text-right`}
                     onClick={() => {
                       setToggle(!toggle);
                       setActive(nav.title);
