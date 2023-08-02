@@ -46,7 +46,7 @@ const Hero = () => {
               </span>
             </h1>
             <p className={`${styles.heroSubText} mt-2 text-eerieBlack`}>
-              Atuando desde 2015, a NirnSoft é uma empresa especializada no desenvolvimento de software <br className="sm:block hidden" /> mobile e web. 
+              Atuando desde 2015, a NirnSoft é uma empresa especializada no desenvolvimento de  <br className="sm:block hidden" /> software mobile e web. 
               
             </p>
           </div>
