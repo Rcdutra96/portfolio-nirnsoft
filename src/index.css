@@ -24,14 +24,6 @@
   src: url('./fonts/overcame-bold.woff');
 }
 
-/* Estilos para dispositivos com largura menor que 768 pixels (típico para dispositivos móveis) */
-@media (max-width: 767px) {
-  .nav-links li {
-    font-size: 1rem; /* Ajuste o tamanho conforme necessário */
-  }
-}
-
-
 @font-face {
   font-family: 'Overcame Outline';
   src: url('./fonts/overcame-outline.woff');
@@ -57,7 +49,6 @@ html {
   background: #292929;
   margin: auto;
   transition: 0.5s;
-  font-size: 20px;
 }
 
 .nav-links:hover::after {
