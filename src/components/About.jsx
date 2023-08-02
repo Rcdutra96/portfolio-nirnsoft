@@ -38,9 +38,9 @@ const About = () => {
         variants={fadeIn('', '', 0.1, 1)}
         className="mt-4 text-taupe text-[18px] max-w-3xl leading-[30px]">
           Na NirnSoft, acreditamos que a combinação entre excelência técnica e foco no usuário é a chave para o sucesso. Utilizamos as mais recentes tecnologias e frameworks para criar aplicativos móveis e plataformas web que se destacam pela usabilidade, desempenho e design atraente.
-
+            <br className="sm:block hidden" />
           Nossos serviços abrangem desde o desenvolvimento de aplicativos mobile nativos para iOS e Android, até a criação de soluções web escaláveis e seguras. Trabalhamos de forma ágil e colaborativa, garantindo entregas no prazo e resultados de alta qualidade.
-
+            <br className="sm:block hidden" />
           Se você está em busca de uma equipe dedicada, experiente e comprometida em transformar suas ideias em realidade, a NirnSoft é a parceira ideal. Junte-se a nós e descubra como podemos impulsionar o crescimento e o sucesso do seu negócio por meio da tecnologia.
       </motion.p>
 
