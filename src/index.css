@@ -37,6 +37,10 @@
   color-scheme: dark;
 }
 
+html {
+  overflow-x: hidden;
+}
+
 .nav-links::after {
   content: '';
   display: block;
