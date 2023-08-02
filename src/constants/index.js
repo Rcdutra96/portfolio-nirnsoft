@@ -32,33 +32,33 @@ import {
 export const navLinks = [
   {
     id: 'about',
-    title: 'About',
+    title: 'Sobre',
   },
   {
     id: 'projects',
-    title: 'Projects',
+    title: 'Projetos',
   },
   {
     id: 'contact',
-    title: 'Contact',
+    title: 'Contato',
   },
 ];
 
 const services = [
   {
-    title: 'Frontend Developer',
+    title: 'Frontend',
     icon: frontend,
   },
   {
-    title: 'Backend Developer',
+    title: 'Backend',
     icon: backend,
   },
   {
-    title: 'UI/UX Design',
+    title: 'UI/UX',
     icon: ux,
   },
   {
-    title: 'Software Prototyping',
+    title: 'Mobile',
     icon: prototyping,
   },
 ];
@@ -120,36 +120,44 @@ const technologies = [
     name: 'docker',
     icon: docker,
   },
+  {
+    name: 'kotlin',
+    icon: kotlin,
+  },
+  {
+    name: 'flutter',
+    icon: flutter,
+  },
 ];
 
 const experiences = [
   {
-    title: 'Front-End Developer',
-    company_name: 'Cover Hunt',
+    title: 'Consultor de Tecnologia',
+    company_name: 'Banco Mercantil',
     icon: coverhunt,
     iconBg: '#333333',
-    date: 'Aug 2021 - Feb 2022',
+    date: 'Dez 2019 - Out 2020',
   },
   {
-    title: 'Mentor (Volunteer)',
-    company_name: 'Microverse',
+    title: 'Consultor de Tecnologia',
+    company_name: 'KPMG',
+    icon: coverhunt,
+    iconBg: '#333333',
+    date: 'Out 2020 - Abr 2022',
+  },
+  {
+    title: 'Desenvolvedor RPA',
+    company_name: 'Pagar.me',
     icon: microverse,
     iconBg: '#333333',
-    date: 'Mar 2022 - May 2022',
+    date: 'Dez 2021 - Jun 2022',
   },
   {
-    title: 'Junior Software Engineer',
-    company_name: 'Kelhel',
-    icon: kelhel,
-    iconBg: '#333333',
-    date: 'May 2022 - Oct 2022',
-  },
-  {
-    title: 'Full Stack Developer',
-    company_name: 'Diversity Cyber Council',
+    title: 'Consultor de Tecnologia',
+    company_name: 'EY',
     icon: dcc,
     iconBg: '#333333',
-    date: 'Sep 2022 - Present',
+    date: 'Abr 2022 - Presente',
   },
 ];
 
